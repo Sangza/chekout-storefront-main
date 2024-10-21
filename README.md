@@ -174,4 +174,4 @@ USDTAddress = "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2"
 0x04335270ce4e0d668267001229c778596f9db9a3aa749817b46e0a5dd0eda462
 0xc28a26781f467bc17f98e93c7964cee2d2a7eac526209c6be80a2e703120ec0b
 
-Feel free to modify this template based on the specifics of your Chekout project!
+
