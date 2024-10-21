@@ -20,7 +20,7 @@ Welcome to **Chekout**, a powerful and efficient platform designed to streamline
 - **Backend**: Node.js, Medusa.js (for ecommerce logic), MongoDB (for database)
 - **Frontend**: React.js (for client-facing UI)
 - **Database**: PostgreSQL for transactional data and MongoDB for user data
-- **Payment Gateways**: Paystack, Stripe
+- **Payment Gateways**: Paystack, Stripe, Crypto using base network
 - **API Integration**: REST APIs for seamless connection between frontend and backend.
 
 ## Getting Started
